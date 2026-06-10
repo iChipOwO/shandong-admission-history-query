@@ -1,0 +1,39 @@
+{
+  "appDataVersion": "shandong-regular-first-2023-2025-v1",
+  "province": "山东",
+  "years": [2023, 2024, 2025],
+  "batch": "普通类常规批第1次志愿",
+  "admissionDataFile": "/data/admissions_shandong_2023_2025.json",
+  "schoolMetadataFile": "/data/school_metadata.json",
+  "sources": [
+    {
+      "name": "山东省教育招生考试院",
+      "description": "山东省普通类常规批第1次志愿投档情况表"
+    },
+    {
+      "name": "教育部全国高等学校名单",
+      "description": "学校省市、层次、标签等元数据来源之一"
+    }
+  ],
+  "scope": {
+    "provinces": ["山东"],
+    "years": [2023, 2024, 2025],
+    "batches": ["普通类常规批第1次志愿"],
+    "excludes": [
+      "艺术类",
+      "体育类",
+      "春季高考",
+      "普通类常规批第2次志愿",
+      "普通类常规批第3次志愿",
+      "提前批",
+      "特殊类型批"
+    ]
+  },
+  "notes": [
+    "本工具不做录取结果预测",
+    "分数不是核心参考，位次更重要",
+    "数据来源于公开投档情况表，仅供参考",
+    "以山东省教育招生考试院官方数据为准"
+  ],
+  "updatedAt": "2026-06-06"
+}

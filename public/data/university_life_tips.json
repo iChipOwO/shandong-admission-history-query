@@ -1,0 +1,136 @@
+{
+  "version": "university-life-tips-v1",
+  "updatedAt": "2026-06-08",
+  "title": "关于大学",
+  "subtitle": "暑假到开学的一点实用提醒",
+  "notice": "本页为通用经验整理，请务必以学校官方迎新通知为准。",
+  "sections": [
+    {
+      "id": "freshman_groups",
+      "title": "新生群与学长学姐",
+      "icon": "💬",
+      "summary": "提前融入环境",
+      "items": [
+        {
+          "title": "寻找靠谱的新生群",
+          "content": "确认录取后，可联系同校的高中学长学姐，他们能介绍学校情况并拉你进靠谱的新生群。在群里可以多交流，不仅能结识新朋友，甚至可能遇到未来的另一半。",
+          "tone": "friendly",
+          "tags": ["新生群", "交友"]
+        }
+      ]
+    },
+    {
+      "id": "group_safety",
+      "title": "群内防骗",
+      "icon": "🛡️",
+      "summary": "谨慎对待私聊与收费",
+      "items": [
+        {
+          "title": "警惕私聊收费与代办",
+          "content": "群里不懂的可以大胆提问，但切勿相信任何私聊中的收费、转账或“内部名额”等消息。如果遇到全员禁言的群且伴有强制收费信息，基本可判断为诈骗群。",
+          "tone": "warning",
+          "tags": ["防骗", "财产安全"]
+        }
+      ]
+    },
+    {
+      "id": "campus_card",
+      "title": "校园卡（电话卡）",
+      "icon": "📱",
+      "summary": "流量多、资费相对便宜",
+      "items": [
+        {
+          "title": "如何选择与办理",
+          "content": "进新生群后常遇到校园卡推销。这些卡通常流量多且较便宜，移动、电信和联通都有提供。选择前建议先询问直系学长学姐哪个运营商在学校里信号最好。\n\n推销校园卡的人很多确实是本校学生，他们每卖出一张校园卡，通常能拿到运营商奖励，每张大概几十到一两百不等。但为避免社会人士假借名义诈骗，强烈建议开学到校后再办。若急需稳定号码，务必核实身份及渠道后再办理。\n\n经验参考：我自己是快开学时找直系学长办的，个人经验价约 38元/月；部分通过暑期学生推销员购买的套餐听说可能拿到的优惠价约 29元/月。具体价格、套餐内容及信号覆盖情况会因学校和运营商不同而有差异。",
+          "tone": "neutral",
+          "tags": ["校园卡", "防套路"]
+        }
+      ]
+    },
+    {
+      "id": "sales_pitfalls",
+      "title": "开学推销",
+      "icon": "🛍️",
+      "summary": "拒绝不明推销",
+      "items": [
+        {
+          "title": "谨慎购买推销商品",
+          "content": "开学时~~可能~~一定会有声称自己是毕业学长学姐的人上门推销笔、清洁剂或生活用品。由于无法确认他们的真实身份与商品质量，建议不要购买。确有需要可在正规网购平台自行购买。",
+          "tone": "warning",
+          "tags": ["防坑", "宿舍推销"]
+        }
+      ]
+    }
+  ],
+  "competitions": [
+    {
+      "name": "ICPC 国际大学生程序设计竞赛",
+      "shortName": "ICPC / ACM-ICPC",
+      "category": "程序设计竞赛",
+      "highlight": true,
+      "highlightLabel": "算法竞赛重点关注",
+      "suitableFor": "适合喜欢算法、程序设计、刷题和团队协作的同学。",
+      "whyWorthKnowing": "ICPC 是大学阶段认可度很高的程序设计竞赛之一，强调三人组队、限时解题和算法能力。对想深入算法竞赛或程序设计训练的同学尤其值得重点了解。",
+      "officialOrSourceName": "ICPC 官网",
+      "sourceUrl": "https://icpc.global/",
+      "sourceType": "official"
+    },
+    {
+      "name": "中国国际大学生创新大赛",
+      "shortName": "大学生创新大赛",
+      "category": "创新创业",
+      "suitableFor": "所有专业",
+      "whyWorthKnowing": "教育部主办，目前国内级别最高、覆盖面最广的综合性大创赛事。参与此类赛事不仅能提升创新创业能力，也是履历上极具分量的一笔。",
+      "officialOrSourceName": "全国大学生创业服务网",
+      "sourceUrl": "https://cy.ncss.cn/",
+      "sourceType": "official"
+    },
+    {
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "shortName": "挑战杯",
+      "category": "学术科技",
+      "suitableFor": "所有专业",
+      "whyWorthKnowing": "共青团中央主办，被誉为中国大学生科技创新的“奥林匹克”盛会，历史悠久，含金量极高。对于锻炼科研能力和实践水平非常有帮助。",
+      "officialOrSourceName": "“挑战杯”官网",
+      "sourceUrl": "http://www.tiaozhanbei.net/",
+      "sourceType": "official"
+    },
+    {
+      "name": "全国大学生数学建模竞赛",
+      "shortName": "高教社杯数模",
+      "category": "学科竞赛",
+      "suitableFor": "理工、经管等对数学与编程有兴趣的学生",
+      "whyWorthKnowing": "在短短三天内完成从建立模型、编程求解到撰写论文的完整过程。能极大提升团队协作、抗压与应用能力，各大高校均高度认可。",
+      "officialOrSourceName": "全国大学生数学建模竞赛官网",
+      "sourceUrl": "http://www.mcm.edu.cn/",
+      "sourceType": "official"
+    },
+    {
+      "name": "全国大学生电子设计竞赛",
+      "shortName": "电赛",
+      "category": "专业技能",
+      "suitableFor": "电子、通信、自动化、电气等理工科专业",
+      "whyWorthKnowing": "对硬件设计、电路搭建和嵌入式编程有极高要求，是相关专业含金量最高的实践类赛事之一，极大提升动手能力。",
+      "officialOrSourceName": "全国大学生电子设计竞赛官网",
+      "sourceUrl": "https://www.nuedc-training.com.cn/",
+      "sourceType": "official"
+    },
+    {
+      "name": "“挑战杯”中国大学生创业计划竞赛",
+      "shortName": "小挑 / 创青春",
+      "category": "创新创业",
+      "suitableFor": "所有专业",
+      "whyWorthKnowing": "与课外学术科技作品竞赛（大挑）并列，侧重于创业计划和商业落地。能够极大地锻炼商业思维、团队协作与项目策划能力。",
+      "officialOrSourceName": "“挑战杯”官网",
+      "sourceUrl": "http://www.tiaozhanbei.net/",
+      "sourceType": "official"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "教育部办公厅关于公布全国性竞赛活动的通知等相关公开文件",
+      "url": "http://www.moe.gov.cn/",
+      "sourceType": "official"
+    }
+  ]
+}

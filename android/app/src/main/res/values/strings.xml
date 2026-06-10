@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">往届录取信息</string>
+    <string name="title_activity_main">往届录取信息</string>
+    <string name="package_name">com.ichipowo.shandongadmission</string>
+    <string name="custom_url_scheme">com.ichipowo.shandongadmission</string>
+</resources>

@@ -1,0 +1,472 @@
+{
+  "computer": {
+    "directionName": "计算机类",
+    "subjects": [
+      {
+        "subjectName": "计算机科学与技术",
+        "priority": 1,
+        "note": "计算机类核心一级学科"
+      },
+      {
+        "subjectName": "软件工程",
+        "priority": 2,
+        "note": "与软件工程专业直接相关"
+      }
+    ]
+  },
+  "electronic_info": {
+    "directionName": "电子信息类",
+    "subjects": [
+      {
+        "subjectName": "电子科学与技术",
+        "priority": 1,
+        "note": "电子信息类核心学科"
+      },
+      {
+        "subjectName": "信息与通信工程",
+        "priority": 2,
+        "note": "通信领域核心学科"
+      },
+      {
+        "subjectName": "光学工程",
+        "priority": 3,
+        "note": "光电方向"
+      },
+      {
+        "subjectName": "仪器科学与技术",
+        "priority": 4,
+        "note": "测控、仪器方向"
+      }
+    ]
+  },
+  "automation": {
+    "directionName": "自动化类",
+    "subjects": [
+      {
+        "subjectName": "控制科学与工程",
+        "priority": 1,
+        "note": "自动化类核心一级学科"
+      }
+    ]
+  },
+  "electrical": {
+    "directionName": "电气类",
+    "subjects": [
+      {
+        "subjectName": "电气工程",
+        "priority": 1,
+        "note": "电气类核心一级学科"
+      }
+    ]
+  },
+  "mechanical": {
+    "directionName": "机械类",
+    "subjects": [
+      {
+        "subjectName": "机械工程",
+        "priority": 1,
+        "note": "机械类核心一级学科"
+      }
+    ]
+  },
+  "materials": {
+    "directionName": "材料类",
+    "subjects": [
+      {
+        "subjectName": "材料科学与工程",
+        "priority": 1,
+        "note": "材料类核心一级学科"
+      }
+    ]
+  },
+  "energy_power": {
+    "directionName": "能源动力类",
+    "subjects": [
+      {
+        "subjectName": "动力工程及工程热物理",
+        "priority": 1,
+        "note": "能源动力类核心一级学科"
+      },
+      {
+        "subjectName": "核科学与技术",
+        "priority": 2,
+        "note": "核工程相关"
+      }
+    ]
+  },
+  "civil_architecture": {
+    "directionName": "土木建筑类",
+    "subjects": [
+      {
+        "subjectName": "土木工程",
+        "priority": 1,
+        "note": "土木类核心"
+      },
+      {
+        "subjectName": "建筑学",
+        "priority": 2,
+        "note": "建筑类核心"
+      },
+      {
+        "subjectName": "城乡规划学",
+        "priority": 3,
+        "note": "城乡规划相关"
+      },
+      {
+        "subjectName": "风景园林学",
+        "priority": 4,
+        "note": "风景园林相关"
+      }
+    ]
+  },
+  "transportation": {
+    "directionName": "交通运输类",
+    "subjects": [
+      {
+        "subjectName": "交通运输工程",
+        "priority": 1,
+        "note": "交通运输核心学科"
+      },
+      {
+        "subjectName": "船舶与海洋工程",
+        "priority": 2,
+        "note": "航海、船舶方向"
+      }
+    ]
+  },
+  "aerospace": {
+    "directionName": "航空航天类",
+    "subjects": [
+      {
+        "subjectName": "航空宇航科学与技术",
+        "priority": 1,
+        "note": "航空航天类核心一级学科"
+      }
+    ]
+  },
+  "mathematics": {
+    "directionName": "数学类",
+    "subjects": [
+      {
+        "subjectName": "数学",
+        "priority": 1,
+        "note": "数学类核心"
+      },
+      {
+        "subjectName": "统计学",
+        "priority": 2,
+        "note": "统计相关"
+      }
+    ]
+  },
+  "physics": {
+    "directionName": "物理类",
+    "subjects": [
+      {
+        "subjectName": "物理学",
+        "priority": 1,
+        "note": "物理类核心"
+      },
+      {
+        "subjectName": "天文学",
+        "priority": 2,
+        "note": "天文相关"
+      }
+    ]
+  },
+  "chemistry": {
+    "directionName": "化学类",
+    "subjects": [
+      {
+        "subjectName": "化学",
+        "priority": 1,
+        "note": "化学类核心"
+      },
+      {
+        "subjectName": "化学工程与技术",
+        "priority": 2,
+        "note": "化工相关"
+      }
+    ]
+  },
+  "biology": {
+    "directionName": "生物类",
+    "subjects": [
+      {
+        "subjectName": "生物学",
+        "priority": 1,
+        "note": "生物类核心"
+      },
+      {
+        "subjectName": "生态学",
+        "priority": 2,
+        "note": "生态相关"
+      }
+    ]
+  },
+  "medical": {
+    "directionName": "医学类",
+    "subjects": [
+      {
+        "subjectName": "临床医学",
+        "priority": 1,
+        "note": "临床核心"
+      },
+      {
+        "subjectName": "口腔医学",
+        "priority": 2,
+        "note": "口腔核心"
+      },
+      {
+        "subjectName": "基础医学",
+        "priority": 3,
+        "note": "基础医学"
+      },
+      {
+        "subjectName": "公共卫生与预防医学",
+        "priority": 4,
+        "note": "公卫核心"
+      },
+      {
+        "subjectName": "中医学",
+        "priority": 5,
+        "note": "中医核心"
+      },
+      {
+        "subjectName": "中西医结合",
+        "priority": 6,
+        "note": "中西医核心"
+      },
+      {
+        "subjectName": "护理学",
+        "priority": 7,
+        "note": "护理核心"
+      }
+    ]
+  },
+  "pharmacy": {
+    "directionName": "药学类",
+    "subjects": [
+      {
+        "subjectName": "药学",
+        "priority": 1,
+        "note": "药学核心"
+      },
+      {
+        "subjectName": "中药学",
+        "priority": 2,
+        "note": "中药学核心"
+      }
+    ]
+  },
+  "finance_economics": {
+    "directionName": "财经类",
+    "subjects": [
+      {
+        "subjectName": "理论经济学",
+        "priority": 1,
+        "note": "经济学基础"
+      },
+      {
+        "subjectName": "应用经济学",
+        "priority": 2,
+        "note": "财经核心"
+      },
+      {
+        "subjectName": "统计学",
+        "priority": 3,
+        "note": "经济统计相关"
+      },
+      {
+        "subjectName": "工商管理",
+        "priority": 4,
+        "note": "财会、商管相关"
+      }
+    ]
+  },
+  "management": {
+    "directionName": "管理类",
+    "subjects": [
+      {
+        "subjectName": "管理科学与工程",
+        "priority": 1,
+        "note": "管理类核心"
+      },
+      {
+        "subjectName": "工商管理",
+        "priority": 2,
+        "note": "工商管理"
+      },
+      {
+        "subjectName": "公共管理",
+        "priority": 3,
+        "note": "公共管理"
+      },
+      {
+        "subjectName": "农林经济管理",
+        "priority": 4,
+        "note": "农林管理"
+      },
+      {
+        "subjectName": "图书情报与档案管理",
+        "priority": 5,
+        "note": "图书档案管理"
+      }
+    ]
+  },
+  "law": {
+    "directionName": "法学类",
+    "subjects": [
+      {
+        "subjectName": "法学",
+        "priority": 1,
+        "note": "法学核心"
+      },
+      {
+        "subjectName": "政治学",
+        "priority": 2,
+        "note": "政治学相关"
+      },
+      {
+        "subjectName": "社会学",
+        "priority": 3,
+        "note": "社会学相关"
+      },
+      {
+        "subjectName": "马克思主义理论",
+        "priority": 4,
+        "note": "马理论"
+      },
+      {
+        "subjectName": "民族学",
+        "priority": 5,
+        "note": "民族学"
+      }
+    ]
+  },
+  "literature_language": {
+    "directionName": "文学语言类",
+    "subjects": [
+      {
+        "subjectName": "中国语言文学",
+        "priority": 1,
+        "note": "中文类核心"
+      },
+      {
+        "subjectName": "外国语言文学",
+        "priority": 2,
+        "note": "外语类核心"
+      },
+      {
+        "subjectName": "新闻传播学",
+        "priority": 3,
+        "note": "新闻传播类核心"
+      }
+    ]
+  },
+  "education_normal": {
+    "directionName": "师范教育类",
+    "subjects": [
+      {
+        "subjectName": "教育学",
+        "priority": 1,
+        "note": "教育学核心"
+      },
+      {
+        "subjectName": "心理学",
+        "priority": 2,
+        "note": "心理学核心"
+      }
+    ]
+  },
+  "agriculture_forestry": {
+    "directionName": "农林类",
+    "subjects": [
+      {
+        "subjectName": "作物学",
+        "priority": 1,
+        "note": "农学核心"
+      },
+      {
+        "subjectName": "园艺学",
+        "priority": 2,
+        "note": "园艺核心"
+      },
+      {
+        "subjectName": "农业资源与环境",
+        "priority": 3,
+        "note": "农业资源"
+      },
+      {
+        "subjectName": "植物保护",
+        "priority": 4,
+        "note": "植保"
+      },
+      {
+        "subjectName": "畜牧学",
+        "priority": 5,
+        "note": "畜牧"
+      },
+      {
+        "subjectName": "兽医学",
+        "priority": 6,
+        "note": "兽医"
+      },
+      {
+        "subjectName": "林学",
+        "priority": 7,
+        "note": "林学"
+      },
+      {
+        "subjectName": "水产",
+        "priority": 8,
+        "note": "水产"
+      },
+      {
+        "subjectName": "草学",
+        "priority": 9,
+        "note": "草学"
+      }
+    ]
+  },
+  "art": {
+    "directionName": "艺术类",
+    "subjects": [
+      {
+        "subjectName": "艺术学理论",
+        "priority": 1,
+        "note": "艺术理论"
+      },
+      {
+        "subjectName": "音乐与舞蹈学",
+        "priority": 2,
+        "note": "音乐舞蹈"
+      },
+      {
+        "subjectName": "戏剧与影视学",
+        "priority": 3,
+        "note": "戏剧影视"
+      },
+      {
+        "subjectName": "美术学",
+        "priority": 4,
+        "note": "美术"
+      },
+      {
+        "subjectName": "设计学",
+        "priority": 5,
+        "note": "设计"
+      }
+    ]
+  },
+  "sports": {
+    "directionName": "体育类",
+    "subjects": [
+      {
+        "subjectName": "体育学",
+        "priority": 1,
+        "note": "体育学核心"
+      }
+    ]
+  }
+}
